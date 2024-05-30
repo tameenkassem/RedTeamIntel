@@ -65,11 +65,11 @@ h tags
 
 Read the above and use MITRE ATT&CK Navigator to answer the questions below using a Carbanak layer.
 https://attack.mitre.org/groups/G0096/
-1.How many Command and Control techniques are employed by Carbanak?
+1. How many Command and Control techniques are employed by Carbanak?
 A: 2
-2.What signed binary did Carbanak use for defense evasion?
+2. What signed binary did Carbanak use for defense evasion?
 A: Rundll32
-3.What Initial Access technique is employed by Carbanak? 
+3. What Initial Access technique is employed by Carbanak? 
 A: Valid Accounts
 ## Mapping it out
 
